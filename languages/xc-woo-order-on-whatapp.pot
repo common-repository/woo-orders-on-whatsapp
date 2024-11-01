@@ -1,0 +1,74 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Woocommerce Orders on Whatsapp\n"
+"POT-Creation-Date: 2018-10-04 10:53+0530\n"
+"PO-Revision-Date: 2018-10-04 10:53+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: xc-woo-whatsapp-order.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: xc-woo-whatsapp-order.php:31
+msgid ""
+"Woocommerce Orders on Whatsapp requires the WooCommerce plugin. Please "
+"install or activate woocommerce!"
+msgstr ""
+
+#: xc-woo-whatsapp-order.php:97
+msgid "Enable Woo Order on Whatsapp"
+msgstr ""
+
+#: xc-woo-whatsapp-order.php:98
+msgid "Whatsapp Number"
+msgstr ""
+
+#: xc-woo-whatsapp-order.php:99
+msgid "Whatsapp Message"
+msgstr ""
+
+#: xc-woo-whatsapp-order.php:100
+msgid "Whatsapp Button Text"
+msgstr ""
+
+#: xc-woo-whatsapp-order.php:144
+msgid "Available placeholder {product_name}"
+msgstr ""
+
+#: xc-woo-whatsapp-order.php:151
+msgid "Buy on whatsapp"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Woocommerce Orders on Whatsapp"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://developer.wordpress.org/plugins/the-basics/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Woocommerce Orders on Whatsapp allows your customers to contact you and chat "
+"via Whatsapp directly from your wordpress/woocommerce products pages to the "
+"mobile.."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "XpertsClub"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://xperts.club/"
+msgstr ""
